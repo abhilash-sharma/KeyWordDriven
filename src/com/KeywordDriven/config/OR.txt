@@ -1,0 +1,10 @@
+#Home Page Objects:
+btn_MyAccount:xpath:.//*[@id='account']/a
+btn_Logout:xpath:.//*[@id='account_logout']
+
+
+#Login Page Objects:
+#txt_Username:.//*[@id='log']
+txt_Username:id:log
+txt_Password:xpath:.//*[@id='pwd']
+btn_Login:xpath:.//*[@id='login']

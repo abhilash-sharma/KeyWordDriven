@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" jdk="1.6" jdk_type="JavaSDK">
+	<output-test url="file://$MODULE_DIR$/out/test/KeywordDrivenFrameworkToolsqa"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="selenium-java-2.46.0.jar" scope="COMPILE">
+		<srcroot url="jar:///Volumes/Macintosh HD SafeDisc/Selenium/selenium-2.46.0/selenium-java-2.46.0-srcs.jar!/"/>
+	</lib>
+</component>
